@@ -10,7 +10,7 @@ This guide explains:
 
 ## Supported image formats
 
-The following file types are supported:
+The following file types are supported and checked in this order. The first matching image file is used:
 - `webp`
 - `png`
 - `jpeg`
